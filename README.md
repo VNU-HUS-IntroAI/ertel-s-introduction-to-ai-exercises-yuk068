@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18134282)
 # VNU-HUS MAT3508 
 
 This repository contains some examples and necessary files for some exercises from the book [Introduction to Artificial Intelligence](https://link.springer.com/book/10.1007/978-3-319-58487-4) of Wolfgang Ertel. I created the repository as a supplement to the course MAT3508 (Introduction to AI) taught at [VNU-HUS](https://hus.vnu.edu.vn).
